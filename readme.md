@@ -9,7 +9,7 @@
 git clone https://github.com/Angel-del-dev/vanilla-videoViewer.git
 ```
 2. Add your video
-    * Change the video in `/video` and rename it to `example.mp4` or change it in the code(`video` tag).
+    * Change the video in `/video` and (when using the .bat file)rename it to `example.mp4` or change it in the code(`video` tag).
 3. Creating the video thumbnails
     * The file `ffmpeg.bat` contains a command to generate a picture every 10 seconds of a given video(it is set to look for `example.mp4`)
         * Make sure you have ffmpeg installed
