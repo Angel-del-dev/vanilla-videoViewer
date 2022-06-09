@@ -194,7 +194,7 @@
     top: 0;
     bottom: 0;
     right: calc(100% - var(--progress-position) * 100%);
-    background-color: red;
+    background-color: purple;
   }
   
   .timeline .thumb-indicator {
